@@ -22,7 +22,9 @@ You can find our colors [here](./connext_colors.pdf) and fonts [here](./fonts.tx
 
 We have a flexible brand, but would like to make sure placement of our logo looks clean and consistent across uses. 
 
-Please use light emblems and logomarks on dark backgrounds and dark emblems and logomarks on light backgrouds. Avoid placing colored emblems onto colored backgrounds. Generally, our favorite logomark is [this one](./connext_Logo.png), but feel free to use whatever you'd like!
+Please use light emblems and logomarks on dark backgrounds and dark emblems and logomarks on light backgrouds. Avoid placing colored emblems onto colored backgrounds. Please don't mix our emblem with other logos, change the spacing between the emblem and text in our logomark, rotate, or otherwise manipulate our logo.
+
+Generally, our favorite logomark is [this one](./connext_Logo.png), but feel free to use whatever you'd like!
 
 ### Country-Specific Logos
 
